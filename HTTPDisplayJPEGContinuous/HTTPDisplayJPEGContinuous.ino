@@ -471,7 +471,7 @@ void setup() {
   // pinMode 車輪控制腳位... etc.
   pinMode(9, OUTPUT);
   pinMode(10, OUTPUT);
-  pinMode(11, OUTPUT);
+  //pinMode(11, OUTPUT);
   pinMode(18, OUTPUT);
   pinMode(19, OUTPUT);
   pinMode(20, OUTPUT);
