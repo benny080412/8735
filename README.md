@@ -25,7 +25,7 @@
 HUB-8735U 遙控自走砲/<br>
 ├── src/ # 程式碼 (Arduino / C++)<br>
 ├── docs/ # 報告、學習紀錄<br>
-├── images/ # 流程圖、心智圖、實測照片<br>
+├── images/ # 流程圖、成果展示圖片<br>
 └── README.md # 專案說明文件
 
 ---
