@@ -58,6 +58,13 @@ HUB-8735U 遙控自走砲/<br>
 
 ---
 
+## 📖 資料來源 (References)
+ 
+- HUB-8735U講義 ([https://twgo.io/8735u](https://twgo.io/8735u))  
+- Darknet (YOLO)資料模型訓練 ([https://twgo.io/robot](https://twgo.io/robot))  
+
+---
+
 ## 🙌 貢獻與授權
 - 作者：`曾柏諺`、`蔡承家`  
 - 指導老師：`邱科文`老師  
