@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 系統架構
-![System Flowchart](images\flowchart_final_white.png)
+![System Flowchart](images/flowchart_final_white.png)
 
 ---
 
