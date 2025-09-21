@@ -25,8 +25,8 @@ AmebaServo servoTilt;  // 上下
 int panAngle  = 90;
 int tiltAngle = 90;
 
-char ssid[] = "iPhone15";
-char pass[] = "aa970412";
+char ssid[] = "********";
+char pass[] = "********";
 uint32_t img_addr = 0;
 uint32_t img_len  = 0;
 // 模式切換旗標
