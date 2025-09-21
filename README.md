@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 系統架構
-![System Flowchart](images/system_flowchart.png)
+![System Flowchart]("C:\Users\benny\Downloads\flowchart_final_white.png")
 
 ---
 
